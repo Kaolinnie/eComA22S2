@@ -20,8 +20,7 @@
 		<td type=action>
 		<a href='/Vet/edit/$item->owner_id'>edit</a> | 
 		<a href='/Vet/details/$item->owner_id'>details</a> |
-		<a href='/Vet/delete/$item->owner_id'>delete</a> |
-		<a href='/Animal/index/$item->owner_id'>my pets</a>
+		<a href='/Vet/delete/$item->owner_id'>delete</a>
 		</td>
 		</tr>";
 	}
